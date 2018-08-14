@@ -24,3 +24,9 @@ Check out [Jenny Bryan](https://github.com/jennybc)'s awesome [git tutorial slid
 ## Other resources
 
 ## Things you might want to install
+
+- git!
+- R and RStudio
+- [SourceTree](https://www.sourcetreeapp.com/), for visually looking at git
+- [Meld](http://meldmerge.org/), a mergetool that helps you with merge conflicts
+- [Alfred](https://www.alfredapp.com/), a productivity tool for Mac OSX

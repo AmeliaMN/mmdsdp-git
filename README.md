@@ -4,6 +4,11 @@
 ## git terms
 
 ## GitHub terms
+* fork
+* clone
+* blame
+* ssh key
+* repository
 
 ## Slides
 

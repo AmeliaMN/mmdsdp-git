@@ -14,7 +14,7 @@ To learn more about github, you have sevearl options. According to [GitHub's "Gi
 * [official Git project site](https://git-scm.com/)
   + [proGit ebook](http://git-scm.com/book)
 * [Try Git simulator](https://try.github.com/)
-  + [Git command list](https://git-scm.com/docs)
+  + deleting previous line
   + [Git command lookup reference](http://gitref.org/)
 
 ####Using GitHub
